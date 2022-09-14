@@ -1,3 +1,4 @@
+
 /*
  * File: 3-islower.c
  * Auth: Muhammed Abdulrahaman Adinoyi
@@ -18,5 +19,3 @@ int _islower(int c)
 	else
 		return (0);
 }
-Footer
-
