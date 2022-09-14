@@ -1,12 +1,12 @@
-1. /*
-2. * File: 1-alphabet.c
-3. * Auth: kevin odo
-4. */
-5. #include "holberton.h"
-6. /**
-7. * print_alphabet - prints the alphabet in lowercase, followed by a new line.
-8. */
-9. void print_alphabet(void)
+ /*
+ * File: 1-alphabet.c
+ * Auth: kevin odo
+ */
+ #include "holberton.h"
+ /**
+ * print_alphabet - prints the alphabet in lowercase, followed by a new line.
+ */
+ void print_alphabet(void)
 {
 	char letter;
 
