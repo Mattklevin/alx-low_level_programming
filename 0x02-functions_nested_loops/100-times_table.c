@@ -1,6 +1,6 @@
 /*
  * File: 100-times_table.c
- * Auth: kevin odo
+ * Auth: Muhammed Abdulrahaman Adinoyi
  */
 #include "main.h"
 /**
