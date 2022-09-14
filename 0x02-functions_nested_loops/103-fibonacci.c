@@ -1,3 +1,4 @@
+
 /*
  * File: 103-fibonacci.c
  * Auth: Muhammed Abdulrahaman Adinoyi
@@ -28,5 +29,3 @@ int main(void)
 	printf("%.0f\n", tot_sum);
 	return (0);
 }
-Footer
-
